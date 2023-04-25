@@ -4,6 +4,15 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: antiquewhite;
+}
 .colorFondo{
+    text-align: center;
     background-color: brown;
+}
+
+#botonRojo{
+    background-color: blue;
+    font-size: 2rem;
 }
